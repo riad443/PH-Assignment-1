@@ -1,0 +1,1 @@
+Create a modern rCTA section with a white background, subtle green border, rounded corners, and a clean minimal design. On the left, add a bold heading "Ready to Level Up?", a short description, and a green "Register Now" button. On the right, display four statistics horizontally: 4000+ Developers, 80+ Speakers, 40+ Sessions, and 3 Days. Use modern typography, generous spacing.
